@@ -13,3 +13,7 @@ Every word has a score, which is how similar it is to the secret word in terms o
 ## Similarity Tool
 This game runs on a custom AI that has been trained on word similarity.  
 The source files used to do so are included in the directory
+
+## Italian language
+There are many AI tools and models out there that one can use, but they only work in the english language. There aren't yet models that can calculate word similarity in the italian language correctly.
+This project focuses on the Italian language and was developed primarily for learning and experimentation purposes.
